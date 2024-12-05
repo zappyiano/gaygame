@@ -1,2 +1,1 @@
-# gaygame
-itsgay
+home
